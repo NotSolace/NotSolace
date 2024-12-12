@@ -1,16 +1,22 @@
-## Hi there 👋
+## Get to know me
+I'm Solace, a Computer Science Student from England.
 
-<!--
-**NotSolace/NotSolace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I use daily
+<details>
+  <summary>Frontend tech I mainly use</summary>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>Backend tech I mainly use</summary>
+  
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,postgres,redis,supabase"/>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Other tech I mainly use</summary>
+  
+  <img src="https://skillicons.dev/icons?i=vscode,npm,cloudflare,vercel,git,github,linux,stackoverflow,windows"/>
+</details>
+
